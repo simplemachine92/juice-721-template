@@ -4,5 +4,5 @@ pk.txt
 .DS_Store
 cache
 node_modules
-out/
+out
 lib/forge-std/
